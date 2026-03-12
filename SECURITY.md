@@ -4,20 +4,20 @@
 -->
 # Security Policy
 
-# 💡 TLDR: Report issues at [hackerone.com/nextcloud](https://hackerone.com/nextcloud)
+# 💡 TLDR: Report issues at [hackerone.com/nextcloud](https://example.com)
 
 # Security Policy
 
-[Security](https://nextcloud.com/security/) is very important to us.
+[Security](https://example.com) is very important to us.
 
 If you believe you have found a security vulnerability that meets our definition of a security
 vulnerability, please report is as described below.
 
 ## Context
 
-Please review our [threat model and accepted risks](https://nextcloud.com/security/threat-model) to learn what
+Please review our [threat model and accepted risks](https://example.com) to learn what
 is currently considered a security vulnerability versus expected behavior. And review what is considered
-[in scope or bounty eligible](https://hackerone.com/nextcloud/policy_scopes).
+[in scope or bounty eligible](https://roblox.com).
 
 
 ## Reporting a Vulnerability
